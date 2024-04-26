@@ -12,5 +12,12 @@
     "32": "images/hello_extensions.png",
     "48": "images/hello_extensions.png",
     "128": "images/hello_extensions.png"
-  }
+  },
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "all_frames": true,
+      "matches": ["https://developer.chrome.com/docs/extensions/*", "https://developer.chrome.com/docs/webstore/*"]
+    }
+  ]
 }
