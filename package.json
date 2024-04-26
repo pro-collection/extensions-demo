@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.5",
+    "typescript-transform-paths": "^3.4.7"
+  },
+  "devDependencies": {
+    "chrome-types": "^0.1.281"
+  }
 }
