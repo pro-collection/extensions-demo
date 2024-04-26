@@ -5,12 +5,12 @@
   "version": "1.0",
   "action": {
     "default_popup": "popup/hello.html",
-    "default_icon": "popup/hello_extensions.png"
+    "default_icon": "images/hello_extensions.png"
   },
   "icons": {
-    "16": "popup/hello_extensions.png",
-    "32": "popup/hello_extensions.png",
-    "48": "popup/hello_extensions.png",
-    "128": "popup/hello_extensions.png"
+    "16": "images/hello_extensions.png",
+    "32": "images/hello_extensions.png",
+    "48": "images/hello_extensions.png",
+    "128": "images/hello_extensions.png"
   }
 }
