@@ -1,17 +1,17 @@
 {
   "manifest_version": 3,
-  "name": "Hello Extensions of the world!111",
-  "description": "Base Level Extension",
+  "name": "Hello Extensions of the world",
+  "description": "hello world",
   "version": "1.0",
   "action": {
     "default_popup": "popup/hello.html",
-    "default_icon": "images/hello_extensions.png"
+    "default_icon": "images/icon.png"
   },
   "icons": {
-    "16": "images/hello_extensions.png",
-    "32": "images/hello_extensions.png",
-    "48": "images/hello_extensions.png",
-    "128": "images/hello_extensions.png"
+    "16": "images/icon.png",
+    "32": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
   },
   "content_scripts": [
     {
