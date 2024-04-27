@@ -19,5 +19,8 @@
       "all_frames": true,
       "matches": ["https://*/*"]
     }
-  ]
+  ],
+  "background": {
+    "service_worker": "background/index.js"
+  }
 }
