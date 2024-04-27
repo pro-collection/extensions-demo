@@ -17,7 +17,7 @@
     {
       "js": ["scripts/content.js"],
       "all_frames": true,
-      "matches": ["https://developer.chrome.com/docs/extensions/*", "https://developer.chrome.com/docs/webstore/*"]
+      "matches": ["https://*/*"]
     }
   ]
 }
