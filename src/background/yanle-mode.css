@@ -1,0 +1,11 @@
+devsite-book-nav {
+  display: none;
+}
+
+devsite-header {
+  display: none !important;
+}
+
+.devsite-sidebar {
+  display: none;
+}
